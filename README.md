@@ -1,5 +1,5 @@
 # hCaptcha integrations list
-A collection of all known integration packages for hCaptcha.
+A collection of all known integration packages for hCaptcha. 
 
 **This is a community-maintained list.** Added or found another one? Open a PR to submit it!
 
